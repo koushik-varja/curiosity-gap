@@ -1,0 +1,81 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Mira must stop an impostor from taking control of the observatory.
+CONTINUITY NOTES: Synthetic example written for testing; not Kuku content.
+
+--- SCRIPT START ---
+SCENE 01
+Scene heading: INT. OBSERVATORY - NIGHT
+Scene start: 00:00.00
+Scene end: 01:23.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+A close shot of Mira clutching a damaged star map.
+
+**MIRA (Horrified):**
+Start: (00:00.25) | End: (00:03.00)
+"Stop! Who changed the coordinates?"
+
+**ACTION:**
+Start: (00:03.00) | End: (00:08.00)
+A stranger lowers the telescope and hides a brass key in his coat.
+
+**STRANGER (Coolly):**
+Start: (00:08.00) | End: (00:13.00)
+"Your father gave me the observatory."
+
+**MIRA (Defiant):**
+Start: (00:13.00) | End: (00:18.50)
+"My father died trying to protect it."
+
+**STRANGER (Mocking):**
+Start: (00:18.50) | End: (00:24.00)
+"Then he should not have left the vault unlocked."
+
+**ACTION:**
+Start: (00:24.00) | End: (00:29.00)
+Mira steps between the stranger and the control switch.
+
+**MIRA (Demanding):**
+Start: (00:29.00) | End: (00:34.00)
+"What is inside the vault?"
+
+**STRANGER (Quietly):**
+Start: (00:34.00) | End: (00:40.00)
+"The record of everyone who betrayed your family."
+
+**ACTION:**
+Start: (00:40.00) | End: (00:45.00)
+The metal door begins to open and a warning bell rings.
+
+**MIRA (Alarmed):**
+Start: (00:45.00) | End: (00:49.00)
+"If you turn that key, who will survive?"
+
+**STRANGER (Threatening):**
+Start: (00:49.00) | End: (00:55.00)
+"Only those who have told the truth."
+
+**CAMERA:**
+Start: (00:55.00) | End: (01:03.00)
+The telescope swings toward the open door as lightning flashes.
+
+**MIRA (Pleading):**
+Start: (01:03.00) | End: (01:09.00)
+"Please! Tell me what happened to my brother."
+
+**STRANGER (Whispering):**
+Start: (01:09.00) | End: (01:15.00)
+"Your brother is alive."
+
+**MIRA (Shocked):**
+Start: (01:15.00) | End: (01:20.00)
+"Where did you hide him?"
+
+**CAMERA:**
+Start: (01:20.00) | End: (01:23.00)
+A slow push toward the sealed tunnel as the lights fail.
+
+--- SCRIPT END ---

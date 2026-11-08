@@ -1,0 +1,20 @@
+{
+  "source_files_found": 1,
+  "episodes_processed": 1,
+  "episode_numbers": [
+    1
+  ],
+  "scenes_parsed": 1,
+  "events_parsed": 17,
+  "parse_errors": 0,
+  "parse_warnings": 0,
+  "candidate_windows_generated_and_evaluated": 24,
+  "baseline_candidates": 2,
+  "final_C": 1,
+  "final_B": 1,
+  "final_A": 1,
+  "model_calls": 0,
+  "mode": "offline heuristic baseline with context-isolated evidence; NOT a run of an LLM",
+  "minimum_C_score": 5.3,
+  "scoring_warning": "Numerical scores are uncalibrated heuristics, not audience quality or validation metrics."
+}

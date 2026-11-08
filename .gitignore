@@ -1,0 +1,15 @@
+# NEVER commit proprietary scripts, outputs, or secret keys
+*.zip
+!examples/synthetic_demo.zip
+*.pdf
+*.mp4
+private*/
+input*/
+output*/
+raw*/
+.env
+*.log
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store

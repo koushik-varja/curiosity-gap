@@ -1,0 +1,451 @@
+{
+  "A": [
+    {
+      "episode": 1,
+      "segments": [
+        {
+          "episode": 1,
+          "start": 0.25,
+          "end": 40.0,
+          "start_stamp": "00:00.25",
+          "end_stamp": "00:40.00"
+        }
+      ],
+      "duration": 39.75,
+      "method": "A",
+      "score": 6.065,
+      "ratings": {
+        "hook": 7.97,
+        "cliffhanger": 3.9,
+        "comprehension_proxy": 5.94,
+        "tension": 4.99,
+        "feasibility": 10.0
+      },
+      "hook": "Stop! Who changed the coordinates?",
+      "hook_event_id": "E001-V0002",
+      "cliffhanger": "The record of everyone who betrayed your family.",
+      "cliffhanger_event_id": "E001-V0009",
+      "unanswered_viewer_question": "Potential unresolved consequence from the final event: The record of everyone who betrayed your family.",
+      "ledger": {
+        "opening_first_3_seconds": {
+          "evidence_ids": [
+            "E001-V0001",
+            "E001-V0002",
+            "E001-V0003"
+          ],
+          "events": [
+            {
+              "id": "E001-V0001",
+              "visibility": "started_before_clip"
+            },
+            {
+              "id": "E001-V0002",
+              "visibility": "fully_within_three_seconds"
+            },
+            {
+              "id": "E001-V0003",
+              "visibility": "partially_overlaps_three_seconds"
+            }
+          ],
+          "lead_event_id": "E001-V0002",
+          "seen_or_heard": "Stop! Who changed the coordinates?",
+          "hook_type_tags": [
+            "reversal",
+            "conflict"
+          ],
+          "hook_timing_uncertain": false,
+          "hook_timing_reason": "Entire timed event is within opening window.",
+          "weak_hook_flag": false
+        },
+        "comprehension": {
+          "speakers_heard": [
+            "MIRA",
+            "STRANGER"
+          ],
+          "conflict_evidence_ids": [
+            "E001-V0002",
+            "E001-V0009"
+          ],
+          "stakes_evidence_ids": [
+            "E001-V0009",
+            "E001-V0004",
+            "E001-V0005"
+          ],
+          "potential_unexplained_reference_ids": [],
+          "major_context_switch_possible": false,
+          "character_relationships": "unknown without semantic/footage review",
+          "main_conflict": "not independently established; use cited in-clip evidence",
+          "emotional_stakes": "not independently established; use cited in-clip evidence",
+          "essential_missing_context": "unknown; human/editor or semantic model review required"
+        },
+        "final_cut": {
+          "evidence_ids": [
+            "E001-V0009"
+          ],
+          "lead_event_id": "E001-V0009",
+          "final_event_excerpt": "The record of everyone who betrayed your family.",
+          "viewer_question": "Potential unresolved consequence from the final event: The record of everyone who betrayed your family.",
+          "question_type": "inferred_consequence",
+          "question_source_id": "E001-V0009",
+          "question_resolved": "unknown",
+          "external_context_required": "unknown",
+          "confidence_explanation": "Mechanical question/consequence detection; storyline coherence requires editor or model review."
+        },
+        "editorial_risks": {
+          "retrospective_opening_possible": false,
+          "unanchored_opening_object_possible": false,
+          "opening_question_answered_soon": false,
+          "opening_evidence_id": "E001-V0002",
+          "answer_evidence_ids": [],
+          "interpretation": "Mechanical editorial risk flags; verify all questions and pacing in footage."
+        }
+      },
+      "evidence_event_ids": [
+        "E001-V0002",
+        "E001-V0009",
+        "E001-V0004",
+        "E001-V0005"
+      ],
+      "warnings": [
+        "Weak or unproven cliffhanger."
+      ],
+      "stats": {
+        "dialogue_events": 6,
+        "speakers": 2
+      },
+      "scoring_provenance": "untrained deterministic editorial heuristic; not an LLM or a performance predictor",
+      "rank": 1,
+      "promo_id": "CG-A-01",
+      "main_emotional_conflict": "Stop! Who changed the coordinates?",
+      "why_it_works": "Timed opening evidence (Stop! Who changed the coordinates?); end assessment: Potential unresolved consequence from the final event: The record of everyone who betrayed your family.",
+      "rank_reason": "Ranked by an uncalibrated editorial score with a small cliffhanger tie-break; not validated against audience behavior.",
+      "cut_comparison": null
+    }
+  ],
+  "B": [
+    {
+      "episode": 1,
+      "segments": [
+        {
+          "episode": 1,
+          "start": 0.25,
+          "end": 49.0,
+          "start_stamp": "00:00.25",
+          "end_stamp": "00:49.00"
+        }
+      ],
+      "duration": 48.75,
+      "method": "B",
+      "score": 6.374,
+      "ratings": {
+        "hook": 7.97,
+        "cliffhanger": 4.29,
+        "comprehension_proxy": 6.16,
+        "tension": 6.1,
+        "feasibility": 10.0
+      },
+      "hook": "Stop! Who changed the coordinates?",
+      "hook_event_id": "E001-V0002",
+      "cliffhanger": "If you turn that key, who will survive?",
+      "cliffhanger_event_id": "E001-V0011",
+      "unanswered_viewer_question": "Explicit unanswered line in clip: If you turn that key, who will survive?",
+      "ledger": {
+        "opening_first_3_seconds": {
+          "evidence_ids": [
+            "E001-V0001",
+            "E001-V0002",
+            "E001-V0003"
+          ],
+          "events": [
+            {
+              "id": "E001-V0001",
+              "visibility": "started_before_clip"
+            },
+            {
+              "id": "E001-V0002",
+              "visibility": "fully_within_three_seconds"
+            },
+            {
+              "id": "E001-V0003",
+              "visibility": "partially_overlaps_three_seconds"
+            }
+          ],
+          "lead_event_id": "E001-V0002",
+          "seen_or_heard": "Stop! Who changed the coordinates?",
+          "hook_type_tags": [
+            "reversal",
+            "conflict"
+          ],
+          "hook_timing_uncertain": false,
+          "hook_timing_reason": "Entire timed event is within opening window.",
+          "weak_hook_flag": false
+        },
+        "comprehension": {
+          "speakers_heard": [
+            "MIRA",
+            "STRANGER"
+          ],
+          "conflict_evidence_ids": [
+            "E001-V0002",
+            "E001-V0009"
+          ],
+          "stakes_evidence_ids": [
+            "E001-V0009",
+            "E001-V0004",
+            "E001-V0005"
+          ],
+          "potential_unexplained_reference_ids": [],
+          "major_context_switch_possible": false,
+          "character_relationships": "unknown without semantic/footage review",
+          "main_conflict": "not independently established; use cited in-clip evidence",
+          "emotional_stakes": "not independently established; use cited in-clip evidence",
+          "essential_missing_context": "unknown; human/editor or semantic model review required"
+        },
+        "final_cut": {
+          "evidence_ids": [
+            "E001-V0010",
+            "E001-V0011"
+          ],
+          "lead_event_id": "E001-V0011",
+          "final_event_excerpt": "If you turn that key, who will survive?",
+          "viewer_question": "Explicit unanswered line in clip: If you turn that key, who will survive?",
+          "question_type": "explicit_question",
+          "question_source_id": "E001-V0011",
+          "question_resolved": "unknown",
+          "external_context_required": "unknown",
+          "confidence_explanation": "Mechanical question/consequence detection; storyline coherence requires editor or model review."
+        },
+        "editorial_risks": {
+          "retrospective_opening_possible": false,
+          "unanchored_opening_object_possible": false,
+          "opening_question_answered_soon": false,
+          "opening_evidence_id": "E001-V0002",
+          "answer_evidence_ids": [],
+          "interpretation": "Mechanical editorial risk flags; verify all questions and pacing in footage."
+        }
+      },
+      "evidence_event_ids": [
+        "E001-V0002",
+        "E001-V0011",
+        "E001-V0009",
+        "E001-V0004",
+        "E001-V0005"
+      ],
+      "warnings": [],
+      "stats": {
+        "dialogue_events": 7,
+        "speakers": 2
+      },
+      "scoring_provenance": "untrained deterministic editorial heuristic; not an LLM or a performance predictor",
+      "rank": 1,
+      "promo_id": "CG-B-01",
+      "main_emotional_conflict": "Stop! Who changed the coordinates?",
+      "why_it_works": "Timed opening evidence (Stop! Who changed the coordinates?); end assessment: Explicit unanswered line in clip: If you turn that key, who will survive?",
+      "rank_reason": "Ranked by an uncalibrated editorial score with a small cliffhanger tie-break; not validated against audience behavior.",
+      "cut_comparison": {
+        "chosen": {
+          "segments": [
+            {
+              "episode": 1,
+              "start": 0.25,
+              "end": 49.0,
+              "start_stamp": "00:00.25",
+              "end_stamp": "00:49.00"
+            }
+          ],
+          "score": 6.374,
+          "opening": "Stop! Who changed the coordinates?",
+          "ending": "If you turn that key, who will survive?",
+          "question": "Explicit unanswered line in clip: If you turn that key, who will survive?"
+        },
+        "best_rejected": {
+          "segments": [
+            {
+              "episode": 1,
+              "start": 0.25,
+              "end": 40.0,
+              "start_stamp": "00:00.25",
+              "end_stamp": "00:40.00"
+            }
+          ],
+          "score": 6.065,
+          "opening": "Stop! Who changed the coordinates?",
+          "ending": "The record of everyone who betrayed your family.",
+          "question": "Potential unresolved consequence from the final event: The record of everyone who betrayed your family."
+        },
+        "comprehension_proxy_tradeoff": {
+          "chosen": 6.16,
+          "rejected": 5.94
+        },
+        "relative_duration_seconds": 9.0,
+        "opening_difference": "Same leading opening evidence",
+        "ending_difference": "Different last-event evidence / unresolved claim",
+        "why_selected": "Chosen ends on [If you turn that key, who will survive?], while the rejected cut ends on [The record of everyone who betrayed your family.]. Preference is heuristic; an editor must check footage.",
+        "uncertainty": "Only screenplay text available; footage and true audience performance unmeasured."
+      }
+    }
+  ],
+  "C": [
+    {
+      "episode": 1,
+      "segments": [
+        {
+          "episode": 1,
+          "start": 0.25,
+          "end": 49.0,
+          "start_stamp": "00:00.25",
+          "end_stamp": "00:49.00"
+        }
+      ],
+      "duration": 48.75,
+      "method": "C",
+      "score": 6.347,
+      "ratings": {
+        "hook": 7.97,
+        "cliffhanger": 4.29,
+        "comprehension_proxy": 6.16,
+        "tension": 6.1,
+        "feasibility": 10.0
+      },
+      "hook": "Stop! Who changed the coordinates?",
+      "hook_event_id": "E001-V0002",
+      "cliffhanger": "If you turn that key, who will survive?",
+      "cliffhanger_event_id": "E001-V0011",
+      "unanswered_viewer_question": "Explicit unanswered line in clip: If you turn that key, who will survive?",
+      "ledger": {
+        "opening_first_3_seconds": {
+          "evidence_ids": [
+            "E001-V0001",
+            "E001-V0002",
+            "E001-V0003"
+          ],
+          "events": [
+            {
+              "id": "E001-V0001",
+              "visibility": "started_before_clip"
+            },
+            {
+              "id": "E001-V0002",
+              "visibility": "fully_within_three_seconds"
+            },
+            {
+              "id": "E001-V0003",
+              "visibility": "partially_overlaps_three_seconds"
+            }
+          ],
+          "lead_event_id": "E001-V0002",
+          "seen_or_heard": "Stop! Who changed the coordinates?",
+          "hook_type_tags": [
+            "reversal",
+            "conflict"
+          ],
+          "hook_timing_uncertain": false,
+          "hook_timing_reason": "Entire timed event is within opening window.",
+          "weak_hook_flag": false
+        },
+        "comprehension": {
+          "speakers_heard": [
+            "MIRA",
+            "STRANGER"
+          ],
+          "conflict_evidence_ids": [
+            "E001-V0002",
+            "E001-V0009"
+          ],
+          "stakes_evidence_ids": [
+            "E001-V0009",
+            "E001-V0004",
+            "E001-V0005"
+          ],
+          "potential_unexplained_reference_ids": [],
+          "major_context_switch_possible": false,
+          "character_relationships": "unknown without semantic/footage review",
+          "main_conflict": "not independently established; use cited in-clip evidence",
+          "emotional_stakes": "not independently established; use cited in-clip evidence",
+          "essential_missing_context": "unknown; human/editor or semantic model review required"
+        },
+        "final_cut": {
+          "evidence_ids": [
+            "E001-V0010",
+            "E001-V0011"
+          ],
+          "lead_event_id": "E001-V0011",
+          "final_event_excerpt": "If you turn that key, who will survive?",
+          "viewer_question": "Explicit unanswered line in clip: If you turn that key, who will survive?",
+          "question_type": "explicit_question",
+          "question_source_id": "E001-V0011",
+          "question_resolved": "unknown",
+          "external_context_required": "unknown",
+          "confidence_explanation": "Mechanical question/consequence detection; storyline coherence requires editor or model review."
+        },
+        "editorial_risks": {
+          "retrospective_opening_possible": false,
+          "unanchored_opening_object_possible": false,
+          "opening_question_answered_soon": false,
+          "opening_evidence_id": "E001-V0002",
+          "answer_evidence_ids": [],
+          "interpretation": "Mechanical editorial risk flags; verify all questions and pacing in footage."
+        }
+      },
+      "evidence_event_ids": [
+        "E001-V0002",
+        "E001-V0011",
+        "E001-V0009",
+        "E001-V0004",
+        "E001-V0005"
+      ],
+      "warnings": [],
+      "stats": {
+        "dialogue_events": 7,
+        "speakers": 2
+      },
+      "scoring_provenance": "untrained deterministic editorial heuristic; not an LLM or a performance predictor",
+      "rank": 1,
+      "promo_id": "CG-C-01",
+      "main_emotional_conflict": "Stop! Who changed the coordinates?",
+      "why_it_works": "Timed opening evidence (Stop! Who changed the coordinates?); end assessment: Explicit unanswered line in clip: If you turn that key, who will survive?",
+      "rank_reason": "Ranked by an uncalibrated editorial score with a small cliffhanger tie-break; not validated against audience behavior.",
+      "cut_comparison": {
+        "chosen": {
+          "segments": [
+            {
+              "episode": 1,
+              "start": 0.25,
+              "end": 49.0,
+              "start_stamp": "00:00.25",
+              "end_stamp": "00:49.00"
+            }
+          ],
+          "score": 6.347,
+          "opening": "Stop! Who changed the coordinates?",
+          "ending": "If you turn that key, who will survive?",
+          "question": "Explicit unanswered line in clip: If you turn that key, who will survive?"
+        },
+        "best_rejected": {
+          "segments": [
+            {
+              "episode": 1,
+              "start": 0.25,
+              "end": 40.0,
+              "start_stamp": "00:00.25",
+              "end_stamp": "00:40.00"
+            }
+          ],
+          "score": 6.054,
+          "opening": "Stop! Who changed the coordinates?",
+          "ending": "The record of everyone who betrayed your family.",
+          "question": "Potential unresolved consequence from the final event: The record of everyone who betrayed your family."
+        },
+        "comprehension_proxy_tradeoff": {
+          "chosen": 6.16,
+          "rejected": 5.94
+        },
+        "relative_duration_seconds": 9.0,
+        "opening_difference": "Same leading opening evidence",
+        "ending_difference": "Different last-event evidence / unresolved claim",
+        "why_selected": "Chosen ends on [If you turn that key, who will survive?], while the rejected cut ends on [The record of everyone who betrayed your family.]. Preference is heuristic; an editor must check footage.",
+        "uncertainty": "Only screenplay text available; footage and true audience performance unmeasured."
+      }
+    }
+  ]
+}
